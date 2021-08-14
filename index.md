@@ -1,4 +1,4 @@
-![Image of fast.ai logo](images/logo.png)
+![Image of top](images/days.png)
 
 ## Welcome to my blog
 
