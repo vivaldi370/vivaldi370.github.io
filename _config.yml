@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Vivaldi's Blog
-description: 人麻了，为了愉快的写latex公式，我屈服于这个空虚的页面。
+description: 奇迹和魔法都是存在的
 github_username: vivaldi370
 
 # Email and twitter are optional:
@@ -21,7 +21,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-gist
